@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nodirbek2209
-- 👀 I’m interested in Python C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Python C++,Java React, React Native
+- 🌱 I’m currently learning React Native
+- 
 - 💞️ I’m looking to collaborate on python kivymd mobile application project
 - 📫 How to reach me n.rejabaliyev@newuu.uz
 
