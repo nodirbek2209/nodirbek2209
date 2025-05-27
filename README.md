@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nodirbek2209
-- 👀 I’m interested in Python C++,Java React, React Native
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Python C++,Java React, Flutter 
+- 🌱 I’m currently working on startup project Edumarkaz with Flutter 
 - 
-- 💞️ I’m looking to collaborate on python kivymd mobile application project
+  
 - 📫 How to reach me n.rejabaliyev@newuu.uz
 
 <!---
