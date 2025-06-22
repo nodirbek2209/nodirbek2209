@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nodirbek Rejabaliyev
 
-🎯 **Flutter Developer | Backend Engineer | Tech Entrepreneur**  
+🎯 **Flutter Developer | Tech Entrepreneur**  
 📍 Based in Uzbekistan  
 🔭 Currently building **EduMarkaz** – an EdTech platform for the future of education in Central Asia.
 
