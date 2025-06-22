@@ -51,9 +51,9 @@ EduMarkaz is a mobile-first education platform that connects students, teachers,
 
 ## 📫 Connect With Me
 
-- Telegram: [@nodirdev](https://t.me/nodirdev)
-- Email: nodirdev@gmail.com
-- GitHub: [github.com/nodirdev](https://github.com/nodirdev)
+- Telegram: [@RejabaliyevNodirbek2005](https://t.me/RejabaliyevNodirbek2005)
+- Email: n.rejabaliyev@newuu.uz
+- GitHub: [github.com/nodirbek2209](https://github.com/nodirbek2209)
 - LinkedIn: *(optional)*
 
 ---
